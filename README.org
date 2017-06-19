@@ -1,4 +1,0 @@
-* Overview
-In this lab you will learn how to code approximation methods to solve problems using a computer.
-* Warning
-Do not create resource on the content server for a new file. Just use the API =/update_experiment=.
